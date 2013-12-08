@@ -653,8 +653,8 @@
     <string name="status_bar_am_pm_normal">일반</string>
     <string name="status_bar_am_pm_small">작음</string>
     <string name="status_bar_am_pm_none">없음</string>
-    <string name="status_bar_title">상태 바</string>
     <string name="status_bar_battery_title">배터리 상태 표시</string>
+	<string name="status_bar_signal_text_title">신호 상태 표시</string>
     <string name="status_bar_style_icon">아이콘</string>
 	<string name="status_bar_style_icon_percentage">아이콘 + 백분율</string>
     <string name="status_bar_style_hidden">숨기기</string>
