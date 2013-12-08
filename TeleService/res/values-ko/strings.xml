@@ -32,7 +32,7 @@
     <string name="blacklist_notification_multiple">%d개 전화가 차단되었습니다</string>
     <string name="unblock_number">차단 해제</string>
 	<string name="mwi_notification_title">메시지 대기 표시</string>
-    <string name="mwi_notification_summary">음성 메일 알림 메시지 대기 표시등 표시</string>
+    <string name="mwi_notification_summary">음성 메일 메시지 대기 표시등 알림 보기</string>
 	<string name="perm_change_mobile_network">네트워크 모드 변경 (2G/3G)</string>
     <string name="perm_change_mobile_network_desc">앱이 언제라도 2G 데이터 및 3G 데이터 사이에서 변경할 수 있습니다. 3G는 빠르지만 더 많은 배터리를 소모하며 추가 비용이 발생할 수 있습니다.</string>
     <string name="ui_default_package">com.android.dialer</string>
@@ -260,6 +260,12 @@
     <string name="enable_disable_multi_category">다중 카테고리</string>
     <string name="multi_category_enable">다중 카테고리 사용</string>
     <string name="multi_category_disable">다중 카테고리 사용 중지</string>
+	<string name="network_lte">LTE (추천)</string>
+    <string name="network_4G">4G (추천)</string>
+    <string name="network_3G">3G</string>
+    <string name="network_2G">2G</string>
+    <string name="network_1x">1x</string>
+	<string name="network_global">글로벌</string>
     <string name="cdma_system_select_title">시스템 선택</string>
     <string name="cdma_system_select_summary">CDMA 로밍 모드 변경</string>
     <string name="cdma_system_select_dialogtitle">시스템 선택</string>
@@ -307,6 +313,7 @@
     <string name="pin2_invalid">잘못된 PIN을 입력하여 FDN 업데이트 안됨</string>
     <string name="fdn_invalid_number">숫자가 20자리를 초과할 수 없으므로 FDN을 업데이트하지 못했습니다.</string>
     <string name="pin2_or_fdn_invalid">FDN이 업데이트되지 않았습니다. PIN2가 잘못되었거나 전화번호가 거부되었습니다.</string>
+	<string name="fdn_failed">FDN 작업이 실패했습니다.</string>
     <string name="simContacts_emptyLoading">SIM 카드에서 읽는 중...</string>
     <string name="simContacts_empty">SIM 카드에 주소록이 없습니다.</string>
     <string name="simContacts_title">가져올 주소록 선택</string>
@@ -341,6 +348,9 @@
     <string name="label_puk2_code">PUK2 코드 입력</string>
     <string name="fdn_enable_puk2_requested">비밀번호가 잘못되었습니다. PIN2를 변경한 후 다시 시도하세요.</string>
     <string name="puk2_requested">비밀번호 틀림. SIM 잠겨 있음. PUK2 요청한 상태임.</string>
+	<string name="puk2_blocked">PUK2가 영구적으로 차단됩니다.</string>
+    <string name="pin2_attempts">"남은 시도는 %d회 입니다."</string>
+    <string name="pin2_unblocked">PIN2 차단 해제!</string>
     <string name="doneButton">완료</string>
     <string name="caller_manage_header">다자간 통화 %s</string>
     <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>

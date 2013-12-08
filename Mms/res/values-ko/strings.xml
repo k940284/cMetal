@@ -76,6 +76,7 @@
     <string name="add_to_blacklist_message">%s의 메시지는 앞으로 차단됩니다</string>
     <string name="alert_dialog_yes">예</string>
     <string name="alert_dialog_no">아니오</string>
+	<string name="menu_as_unread">읽지않음 표시</string>
     <string name="select_recipients">받는 사람 선택</string>
     <string name="groups_header">그룹</string>
     <string name="no_recipients">연락처를 찾을 수 없습니다</string>
