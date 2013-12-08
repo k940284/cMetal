@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">%s분 동안 데이터 연결 없음</item>
+        <item quantity="one">%s분 동안 데이터 연결 없음</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">휴대전화가 %s분간 긴급 콜백 모드를 유지합니다. 그 동안 데이터 연결이 필요한 애플리케이션을 사용할 수 없습니다. 종료하시겠습니까?</item>
+        <item quantity="one">휴대전화가 %s분간 긴급 콜백 모드를 유지합니다. 그 동안 데이터 연결이 필요한 앱을 사용할 수 없습니다. 종료하시겠습니까?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">긴급 콜백 모드에서는 선택한 작업을 사용할 수 없습니다. 휴대전화가 %s분간 현재 모드를 유지합니다. 종료하시겠습니까?</item>
+        <item quantity="one">긴급 콜백 모드에서는 선택한 작업을 사용할 수 없습니다. 휴대전화가 %s분간 현재 모드를 유지합니다. 종료하시겠습니까?</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d개를 찾았습니다.</item>
+        <item quantity="one">1개를 찾았습니다.</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d시간</item>
+        <item quantity="one">1시간</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d분</item>
+        <item quantity="one">1분</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d초</item>
+        <item quantity="one">1초</item>
+    </plurals>
+    <plurals name="call">
+        <item quantity="other">%d건 통화</item>
+        <item quantity="one">1건 통화</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d개의 음성사서함</item>
+        <item quantity="one">음성사서함</item>
+    </plurals>
+</resources>

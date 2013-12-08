@@ -1,4 +1,0 @@
-cMetal
-======
-
-cMetal Korean Resource
